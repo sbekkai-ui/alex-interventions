@@ -1,0 +1,8 @@
+{
+  "name": "interventionshub-desktop",
+  "version": "1.0.0",
+  "description": "InterventionsHub Desktop",
+  "main": "main.cjs",
+  "author": "Lovable",
+  "license": "MIT"
+}
